@@ -7,7 +7,7 @@
 ## 📁 作品集
 
 ### 🤖 人力资源方向
-- **[HR简历初筛助手](./hr-ai-ideas/resume-screening.md)** - 用AI自动筛选简历，提升HR效率
+- **[HR简历初筛助手](hr-ai-ideas)** - 用AI自动筛选简历，提升HR效率
 
 ### 💰 金融方向  
 - **[小额信贷智能审批助手](./finance-ai-ideas/README.md)** - 用AI评估信用风险，辅助信审决策
