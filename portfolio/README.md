@@ -62,6 +62,6 @@ portfolio/
 
 ## 📬 联系我
 
-> 📧 Email：待补充
-> 💼 LinkedIn：待补充
-> 🌐 作品集网站：待补充
+> 📧 Email：https://jianggongqun-portfolio.netlify.app/
+> 💼 LinkedIn：https://jianggongqun-portfolio.netlify.app/
+> 🌐 作品集网站：https://jianggongqun-portfolio.netlify.app/
