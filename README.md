@@ -21,7 +21,7 @@
 | 📊 **[7个自研Coze插件](ai-portfolio/coze-plugins/)** | 基本面分析、历史趋势、同业对比、护城河、财务健康、DCF估值、财报解析 |
 | 🌐 **[作品集网站](ai-portfolio/netlify-website/README.md)** | 个人门户网站 · [访问](https://jianggongqun-portfolio.netlify.app/) |
 
-### 🏆 ai-portfolio/ — 心得体会与干货分享
+### 📘 ai-portfolio/ — 心得体会与干货分享
 | 🏦 **[AI学习过程](心得/3个月AI学习心得体会和干货分享.md)** | 学习与干货分享 |
 
 > 📬 联系方式：3178650145@qq.com
