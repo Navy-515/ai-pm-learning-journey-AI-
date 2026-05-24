@@ -22,7 +22,7 @@
 | 🌐 **[作品集网站](ai-portfolio/netlify-website/README.md)** | 个人门户网站 · [访问](https://jianggongqun-portfolio.netlify.app/) |
 
 ### 📘 ai-portfolio/ — 心得体会与干货分享
-| 🏦 **[AI学习过程](心得/3个月AI学习心得体会和干货分享.md)** | 学习与干货分享 |
+| 🏦 **[AI学习过程](心得/3个月AI学习心得体会和干货分享.md)** | 心得与干货分享 |
 
 > 📬 联系方式：3178650145@qq.com
 
