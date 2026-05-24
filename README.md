@@ -26,8 +26,6 @@
 ## ai-thoughts/ — AI 学习心得
 
 | 心得    | 说明    |
-|---|---|
-| [从HR到AI产品经理：阶段心得总结](./docs/ai-concepts/从HR到AI产品经理_阶段心得总结.md) | 转型之路：Coze → Dify → 大模型本质理解 |
 | [3个月AI学习心得体会](./docs/ai-concepts/3个月AI学习心得体会.md) | 从Coze到Dify再到OpenClaw/Hermes的实操干货 |
 ---
 
