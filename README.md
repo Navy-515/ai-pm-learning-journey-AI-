@@ -25,9 +25,7 @@
 
 ## ai-thoughts/ — AI 学习心得
 
-| 心得    | 说明    |
-| [3个月AI学习心得体会](./docs/ai-concepts/3个月AI学习心得体会.md) | 从Coze到Dify再到OpenClaw/Hermes的实操干货 |
----
+| [3个月AI学习心得体会](./docs/ai-concepts/3个月AI学习心得体会.md) | Coze、Dify、OpenClaw、Hermes实操干货与踩坑经验 |
 
 > 📬 联系方式待补充
 
