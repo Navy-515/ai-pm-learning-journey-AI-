@@ -1,3 +1,4 @@
+
 # AI产品经理转型之旅 🚀
 
 > 背景：HR出身，正在转型AI产品经理 | 目标：金融AI产品经理
@@ -20,6 +21,14 @@
 | 📊 **[7个自研Coze插件](ai-portfolio/coze-plugins/)** | 基本面分析、历史趋势、同业对比、护城河、财务健康、DCF估值、财报解析 |
 | 🌐 **[作品集网站](ai-portfolio/netlify-website/README.md)** | 个人门户网站 · [访问](https://jianggongqun-portfolio.netlify.app/) |
 
+---
+
+## ai-thoughts/ — AI 学习心得
+
+| 心得    | 说明    |
+|---|---|
+| [从HR到AI产品经理：阶段心得总结](./docs/ai-concepts/从HR到AI产品经理_阶段心得总结.md) | 转型之路：Coze → Dify → 大模型本质理解 |
+| [3个月AI学习心得体会](./docs/ai-concepts/3个月AI学习心得体会.md) | 从Coze到Dify再到OpenClaw/Hermes的实操干货 |
 ---
 
 > 📬 联系方式待补充
