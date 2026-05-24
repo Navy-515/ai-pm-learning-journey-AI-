@@ -21,8 +21,8 @@
 | 📊 **[7个自研Coze插件](ai-portfolio/coze-plugins/)** | 基本面分析、历史趋势、同业对比、护城河、财务健康、DCF估值、财报解析 |
 | 🌐 **[作品集网站](ai-portfolio/netlify-website/README.md)** | 个人门户网站 · [访问](https://jianggongqun-portfolio.netlify.app/) |
 
-##心得分享
-| [3个月AI学习心得体会](./3个月AI学习心得体会和干货分享) | Coze、Dify、OpenClaw、Hermes实操干货与踩坑经验 |
+##   心得分享
+[3个月AI学习心得体会](./docs/ai-concepts/3个月AI学习心得体会和干货分享.md)
 
 > 📬 联系方式待补充
 
